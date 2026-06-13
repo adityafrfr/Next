@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.header {
+  background-color: Lightblue;
+  padding: 1rem;
+}
+
+.footer {
+  background-color: ghostwhite;
+  padding: 1rem;
+}
